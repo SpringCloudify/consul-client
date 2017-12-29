@@ -2,9 +2,9 @@ spring:
   profiles:
     active: dev
 
-eureka:
+consul:
   instance:
     hostname: localhost
   client:
     serviceUrl:
-      eureka-server-port: 11111
+      consul-server-port: 11111
