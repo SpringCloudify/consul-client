@@ -1,4 +1,4 @@
-package com.springcloudfiy.cloudy.consulclient;
+package com.springcloudify.cloudy.consulclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

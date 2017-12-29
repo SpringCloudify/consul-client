@@ -7,4 +7,4 @@ consul:
     hostname: localhost
   client:
     serviceUrl:
-      consul-server-port: 11111
+      consul-server-port: 8500
