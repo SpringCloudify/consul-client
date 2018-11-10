@@ -1,4 +1,4 @@
-package com.springcloudify.cloudy.consulclient;
+package com.springcloudify.cloudify.consulclient;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
